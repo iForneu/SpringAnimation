@@ -98,12 +98,12 @@
 			name = Models;
 			sourceTree = "<group>";
 		};
-		E96B857C275CBE51004E96FF /* Extansion */ = {
+		E96B857C275CBE51004E96FF /* Services */ = {
 			isa = PBXGroup;
 			children = (
 				E96B857F275CBE84004E96FF /* DataManager.swift */,
 			);
-			path = Extansion;
+			path = Services;
 			sourceTree = "<group>";
 		};
 		E987EE03275CBBEA0088D47A = {
@@ -130,7 +130,7 @@
 				E96B857B275CBE47004E96FF /* Models */,
 				E96B8578275CBE18004E96FF /* ViewControllers */,
 				E96B8579275CBE25004E96FF /* Storyboards */,
-				E96B857C275CBE51004E96FF /* Extansion */,
+				E96B857C275CBE51004E96FF /* Services */,
 				E96B8577275CBDFE004E96FF /* SupportFiles */,
 				E96B857A275CBE33004E96FF /* Resourses */,
 			);
